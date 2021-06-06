@@ -13,5 +13,6 @@ services:
     ports:
       - "3306:3306"
     tty: true
+    restart: always
     volumes:
       - "./_data:/var/lib/mysql"

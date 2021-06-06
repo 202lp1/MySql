@@ -12,3 +12,6 @@ How to use
 You can edit main.go at local or docker container 
 
 docker exec -it mysql_serve bash
+
+
+// root es root también
